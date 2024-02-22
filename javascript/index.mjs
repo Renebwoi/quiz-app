@@ -72,7 +72,8 @@ function progreShow() {
     
     
     let incrementor = 100/data.qData.length
+    incrementor = Math.floor(incrementor)
     proWidth += incrementor
-    probar.style.width = `${proWidth}svw`
+    probar.style.width = `${proWidth}%`
     console.log("progress added",proWidth)
 }
