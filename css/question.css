@@ -5,12 +5,17 @@
   
 
 }
+html{
+    width: 110svw;
+    height: 120vh;
+    overflow: hidden;
+}
 
 body{
     padding: 10px;
     width: 100vw;
     height: 100vh;
-    overflow: hidden;
+    overflow: scroll;
     /* background-color: rgb(69, 69, 99); */
     background: var(--ce);
     background: radial-gradient(circle farthest-corner at left center, var(--ce) 45%, var(--dce) 40%, var(--dce) 70%, var(--ce) 70%, var(--ce) 100%);
