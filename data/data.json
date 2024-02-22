@@ -1,0 +1,122 @@
+{ "qData": [
+    {
+        "Question":"Two plus three is: ",
+        "options": ["Five","four","Six","Three"],
+        "number": 1,
+        "answer":"Five"
+    },
+
+    {
+        "Question":"What does Bill gates own? ",
+        "options": ["Jupiter","Microsoft","Facebook","Tiktok"],
+        "number": 2,
+        "answer":"Microsoft"
+    },
+
+    {
+        "Question":"What is pi? ",
+        "options": ["3.56","5.87","6","3.14"],
+        "number": 3,
+        "answer":"3.14"
+    },
+
+    {
+        "Question":"What does  Steve Jobs own? ",
+        "options": ["Facebook","Microsoft","Apple","Tiktok"],
+        "number": 2,
+        "answer":"Apple"
+    },
+
+    {
+        "Question":"In 1768, Captain James Cook set out to explore which ocean? ",
+        "options": ["Pacific","Atlantic","Indian","Arctic"],
+        "number": 2,
+        "answer":"Pacific"
+    },
+
+    {
+        "Question":"What actually is electricity? ",
+        "options": ["A flow of water","A flow of air","A flow of electrons","A flow of atoms"],
+        "number": 2,
+        "answer":"A flow of electrons"
+    },
+
+    {
+        "Question":"Which of the following is not an international organisation? ",
+        "options": ["FIFA","NATO","ASEAN","FBI"],
+        "number": 2,
+        "answer":"FBI"
+    },
+
+    {
+        "Question":"Which of the following disorders is the fear of being alone? ",
+        "options": ["Agoraphobia","Aerophobia","Acrophobia","Arachnophobia"],
+        "number": 2,
+        "answer":"Agoraphobia"
+    },
+
+    {
+        "Question":"What is the speed of sound? ",
+        "options": ["120 km/h","1200 km/h","400km/h","700 km/h"],
+        "number": 2,
+        "answer":"1200 km/h"
+    },
+
+    {
+        "Question":"Which is the easiest way to tell the age of many trees? ",
+        "options": ["Measure the tree's width","Count the rings on the trunk","Count the number of leaves","Measure the tree's heigth"],
+        "number": 2,
+        "answer":"Count the rings on the trunk"
+    },
+
+    {
+        "Question":"What do we call a newly hatched butterfly? ",
+        "options": ["A moth","A butter","A caterpillar","A chrysalis"],
+        "number": 2,
+        "answer":"A caterpillar"
+    },
+
+    {
+        "Question":"Which did Viking people use as money? ",
+        "options": ["Rune stones","Jewellery","Seal skins","Wool"],
+        "number": 2,
+        "answer":"Jewellery"
+    },
+
+    {
+        "Question":" What was the first country to use tanks in combat during World War I? ",
+        "options": ["France","Japan","Britain","Germany"],
+        "number": 2,
+        "answer":"Britain"
+    },
+
+    {
+        "Question":"What is the main component of the sun?  ",
+        "options": ["Liquid lava","Gas","Molten Iron","Rock"],
+        "number": 2,
+        "answer":"Gas"
+    },
+
+    {
+        "Question":"Which two months are named after Emperors of the Roman Empire? ",
+        "options": ["January and February","March and April","May and June","July and August"],
+        "number": 2,
+        "answer":"July and August"
+    },
+
+    {
+        "Question":"Which of the following animals can run the fastest? ",
+        "options": ["Cheetah","Leopard","Tiger","Lion"],
+        "number": 2,
+        "answer":"Cheetah"
+    },
+
+    {
+        "Question":"The phrase: 'I think, therefore I am' was coined by which philosopher? ",
+        "options": ["Socrates","Plato","Aristotle","Descartes"],
+        "number": 2,
+        "answer":"Descartes"
+    }
+]
+
+}
